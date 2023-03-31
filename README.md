@@ -21,3 +21,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" style="width: 64px; height: 64px" />
 <img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" style="width: 64px; height: 64px" />
 </div>
+
+### :fire: Моя статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andr43&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andr43)](https://github.com/anuraghazra/github-readme-stats)
