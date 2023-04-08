@@ -23,30 +23,23 @@
 </div>
 
 <h2>☎️ Мои контакты: </h2>
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25453.png" style="width: 24px; height: 24px" />  
-<p>+ 351 914 058 173</p>
-</div>
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="width: 24px; height: 24px" /> 
-<p>andrew.musinov@gmail.com</p>
-</div>
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" style="width: 24px; height: 24px" /> 
-<p>+ 7 (921) 554 05 43</p>
-</div>
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="width: 24px; height: 24px" /> 
-<p>https://t.me/AndreyM43</p>
-</div>
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="width: 24px; height: 24px" /> 
-<p>https://instagram.com/andrewmusinov?igshid=YmMyMTA2M2Y=</p>
-</div>
-<div style="display: flex">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" style="width: 24px; height: 24px" /> 
-<p>https://vk.com/id79464881</p>
-</div>
+
+<a style="text-decoration: none" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZZQwKQTZTkSGShKpkRsNtJchzdsrGnKVXBFcwdwQqRFTQdxdgslNQFkgFvqKXxCpRSFlV">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="width: 50px; height: 50px" />
+</a>  
+
+<a style="text-decoration: none" href="https://t.me/AndreyM43">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="width: 50px; height: 50px" />
+</a>  
+
+<a style="text-decoration: none" href="https://instagram.com/andrewmusinov?igshid=YmMyMTA2M2Y=">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="width: 50px; height: 50px" /> 
+</a>  
+
+<a style="text-decoration: none" href="https://vk.com/id79464881">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" style="width: 50px; height: 50px" /> 
+</a>  
+
 <h2> :fire: Моя статистика:</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andr43&theme=dark&background=000000)](https://git.io/streak-stats)
